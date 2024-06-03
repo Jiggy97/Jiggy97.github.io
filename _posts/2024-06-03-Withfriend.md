@@ -16,6 +16,9 @@ tags:
 - [아키텍처](#아키텍처)
 	- [서비스 아키텍처](#서비스-아키텍처)
 	- [DB 아키텍처](#db-아키텍처)
+- [코드 뜯어보기](#코드-뜯어보기)
+	- [WithfriendApplication](#WithfriendApplication)
+	- [build.gradle](#build.gradle)
 - [github링크](https://github.com/Jiggy97/withfriend)
 
 ---
@@ -74,3 +77,34 @@ tags:
 [목차로 돌아가기](#목차)
 
 ---
+<details id="코드-뜯어보기">
+<summary>
+<h2 style="display:inline">코드 뜯어보기</h2>
+</summary>
+<details id="WithfriendApplication">
+<summary>
+<h4 style="display:inline">WithfriendApplication</h4>
+</summary>
+<div markdown="1">
+- 제목 1
+	- 내용 1.1
+	- 내용 1.2
+- 제목 2
+	- 내용 2.1
+	- 내용 2.2
+</div>
+</details>
+<details id="build.gradle">
+<summary>
+<h4 style="display:inline">build.gradle</h4>
+</summary>
+<div markdown="1">
+- 제목 1
+	- 내용 1.1
+	- 내용 1.2
+- 제목 2
+	- 내용 2.1
+	- 내용 2.2
+</div>
+</details>
+</details>
