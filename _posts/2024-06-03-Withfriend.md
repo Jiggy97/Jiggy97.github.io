@@ -11,21 +11,13 @@ tags:
   - springboot
   - 중고거래
 ---
-
-[github링크](https://github.com/Jiggy97/withfriend)
-
-
-<details> 
-<summary>
-<h2 style="display:inline">목차</h2>
-</summary> 
-<div markdown="1">
+## 목차
 - [개요](#개요)
 - [아키텍처](#아키텍처)
 	- [서비스 아키텍처](#서비스-아키텍처)
 	- [DB 아키텍처](#db-아키텍처)
-</div>
-</details>
+- [github링크](https://github.com/Jiggy97/withfriend)
+
 ---
 <details id="개요">
 <summary>
@@ -52,7 +44,7 @@ tags:
 </summary>
 <details id="서비스-아키텍처">
 <summary>
-<h3 style="display:inline">서비스 아키텍처</h3>
+<h4 style="display:inline">서비스 아키텍처</h4>
 </summary>
 <div markdown="1">
 - 제목 1
@@ -65,7 +57,7 @@ tags:
 </details>
 <details id="db-아키텍처">
 <summary>
-<h3 style="display:inline">DB 아키텍처</h3>
+<h4 style="display:inline">DB 아키텍처</h4>
 </summary>
 <div markdown="1">
 - 제목 1
