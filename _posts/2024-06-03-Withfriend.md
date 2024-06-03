@@ -17,7 +17,7 @@ tags:
 
 
 ---
-<details> <summary>## 목차</summary> - [개요](#개요) - [아키텍처](#아키텍처) - [서비스 아키텍처](#서비스-아키텍처) - [DB 아키텍처](#DB-아키텍처) </details>
+<details> <summary><h2 style="display:inline">목차</h2></summary> <ul> <li><a href="#개요">개요</a></li> <li><a href="#아키텍처">아키텍처</a> <ul> <li><a href="#서비스-아키텍처">서비스 아키텍처</a></li> <li><a href="#db-아키텍처">DB 아키텍처</a></li> </ul> </li> </ul> </details>
 
 ---
 ## 개요
@@ -40,5 +40,3 @@ tags:
 ### DB 아키텍처
 내용
 
-
-<details>
