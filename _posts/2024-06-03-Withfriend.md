@@ -17,15 +17,8 @@ tags:
 
 
 ---
-<details>
-<summary style="display: inline;"><h2 style="display: inline;">목차</h2></summary>
+<details> <summary>## 목차</summary> - [개요](#개요) - [아키텍처](#아키텍처) - [서비스 아키텍처](#서비스-아키텍처) - [DB 아키텍처](#DB-아키텍처) </details>
 
-- [개요](#개요) 
-- [아키텍처](#아키텍처) 
-	- [서비스 아키텍처](#서비스-아키텍처) 
-	- [DB 아키텍처](#DB-아키텍처)
-
-</details>
 ---
 ## 개요
 - 혼자 힘으로 기획부터 개발까지 전부 설계하고 개발하기 위해
