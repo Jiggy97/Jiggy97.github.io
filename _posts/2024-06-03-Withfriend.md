@@ -50,10 +50,30 @@ tags:
 <summary>
 <h2 style="display:inline">아키텍처</h2>
 </summary>
+<details id="서비스-아키텍처">
+<summary>
+<h3 style="display:inline">서비스 아키텍처</h3>
+</summary>
 <div markdown="1">
-### 서비스 아키텍처
-내용
-### DB 아키텍처
-내용
+- 제목 1
+	- 내용 1.1
+	- 내용 1.2
+- 제목 2
+	- 내용 2.1
+	- 내용 2.2
 </div>
+</details>
+<details id="db-아키텍처">
+<summary>
+<h3 style="display:inline">DB 아키텍처</h3>
+</summary>
+<div markdown="1">
+- 제목 1
+	- 내용 1.1
+	- 내용 1.2
+- 제목 2
+	- 내용 2.1
+	- 내용 2.2
+</div>
+</details>
 </details>
