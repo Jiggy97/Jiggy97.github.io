@@ -16,22 +16,18 @@ tags:
 
 
 <details> 
-<summary>
-<h2 style="display:inline">목차</h2>
-</summary> 
-<div markdown="1">
+	<summary><h2 style="display:inline">목차</h2></summary>
+	<div markdown="1">
 - [개요](#개요)
 - [아키텍처](#아키텍처)
 	- [서비스 아키텍처](#서비스-아키텍처)
 	- [DB 아키텍처](#db-아키텍처)
-</div>
+	</div>
 </details>
 ---
 <details id="개요">
-<summary>
-<h2 style="display:inline">개요</h2>
-</summary>
-<div markdown="1"> 
+	<summary><h2 style="display:inline">개요</h2></summary>
+	<div markdown="1"> 
 - 혼자 힘으로 기획부터 개발까지 전부 설계하고 개발하기 위해 
 	- 프로젝트 사이클 이해도 향상 
 	- 개발 능력 향상 
@@ -43,37 +39,31 @@ tags:
 - 주요 기능 
 	- OAuth 2.0 기반 로그인 서비스 
 	- 사용자 간 중고거래
-</div>
+	</div>
 </details>
 ---
 <details id="아키텍처">
-<summary>
-<h2 style="display:inline">아키텍처</h2>
-</summary>
-<details id="서비스-아키텍처">
-<summary>
-<h3 style="display:inline">서비스 아키텍처</h3>
-</summary>
-<div markdown="1">
+	<summary><h2 style="display:inline">아키텍처</h2></summary>
+	<details id="서비스-아키텍처">
+		<summary><h3 style="display:inline">서비스 아키텍처</h3></summary>
+		<div markdown="1">
 - 제목 1
 	- 내용 1.1
 	- 내용 1.2
 - 제목 2
 	- 내용 2.1
 	- 내용 2.2
-</div>
-</details>
-<details id="db-아키텍처">
-<summary>
-<h3 style="display:inline">DB 아키텍처</h3>
-</summary>
-<div markdown="1">
+		</div>
+	</details>
+	<details id="db-아키텍처">
+		<summary><h3 style="display:inline">DB 아키텍처</h3></summary>
+		<div markdown="1">
 - 제목 1
 	- 내용 1.1
 	- 내용 1.2
 - 제목 2
 	- 내용 2.1
 	- 내용 2.2
-</div>
-</details>
+		</div>
+	</details>
 </details>
