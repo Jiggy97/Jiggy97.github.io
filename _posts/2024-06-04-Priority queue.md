@@ -10,8 +10,11 @@ date: 2024-06-04
 title: Priority queue
 layout: post
 ---
+<<<<<<< HEAD
 페이지가 완성될 때까지 주석처리
 <!-- 
+=======
+>>>>>>> 392d12642201a4dc8a40d99169a68dcfd0e5a376
 ## 우선순위 큐 (Priority queue)
 
 #### 개념
@@ -24,5 +27,8 @@ layout: post
 [위키백과 참조](https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90)
 
 #### 구현
+<<<<<<< HEAD
 
 -->
+=======
+>>>>>>> 392d12642201a4dc8a40d99169a68dcfd0e5a376
