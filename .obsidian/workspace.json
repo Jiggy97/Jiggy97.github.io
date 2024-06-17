@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-04-Priority queue.md",
+                "file": "_posts/2024-06-17-Kruskal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-04-Priority queue.md",
+                "file": "_posts/2024-06-17-Kruskal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-04-Priority queue.md",
+                "file": "_posts/2024-06-17-Kruskal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-04-Priority queue.md"
+                "file": "_posts/2024-06-17-Kruskal.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e067e2cd10c2970a",
+  "active": "bdb3f1841c9d6d8d",
   "lastOpenFiles": [
+    "_posts/image",
+    "_posts/image/algorithm-4.jpg",
+    "_posts/2024-06-04-Dijkstra.md",
+    "_posts/2024-06-17-Kruskal.md",
+    "_posts/2024-06-04-Priority queue.md",
     "_posts/2024-06-13-Take-a-look-at-the-code-Spring-Boot-Project.md",
     "_posts/2024-06-13-test posting.md",
-    "_posts/2024-06-04-Priority queue.md",
-    "_posts/2024-06-04-Dijkstra.md",
     "_posts/2024-06-03-Withfriend.md",
     "2024-06-03.md",
     "about.md",
